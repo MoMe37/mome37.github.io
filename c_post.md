@@ -40,11 +40,14 @@ Ce type de résultat est obtenu à l'issue d'un processus d'entrainement dit *ad
 
 Au final, la flexibilité est un des points les plus marquants du machine learning sous sa forme actuelle. C'est un aspect qui est particulièrement marqué dans les réseaux de neurones puisque l'optimisation (par backpropagation) permet, avec un peu de créativité de positionner ces modèles sur un très large panel de problèmes. Par exemple 
 
-* Classification et régression, mais ça, on le savait 
+* Classification et régression (prédire une ou plusieurs valeurs), mais ça, on le savait 
 * Détection d'object, segmentation d'images (classifier tous les pixels d'une image, utile pour la conduite autonome, notamment)
 * Génération d'images, de sons 
-* Interpréation du langage
+* Interprétation du langage, résumer des textes, recherche d'informations
 * Contrôle et commande de robots, entrainement d'agents 
+* Estimation de la profondeur à partir d'une image RGB
+* Deviner la forme des éléments occultés sur une image 
+* Accélérer des simulations physiques 
 * Avec un dataset approprié, on peut générer des cartes sur Minecraft, des heightmaps pour des terrains 3D... 
 
 The sky's the limit, lorsqu'on dispose d'un bon dataset, d'une fonction de coût bien pensée (et de quelques GPUs). 
