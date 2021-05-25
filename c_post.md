@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Est-ce plus utile qu'un compas ?
-image: assets/images/pic01.jpg
+title: "Optimisation: be like water"
+image: assets/images/icons/flex.jpg
 nav-menu: true
 ---
 

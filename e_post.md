@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Techniques de survie
-image: assets/images/pic01.jpg
+image: assets/images/icons/pandas.jpg
 nav-menu: true
 usemathjax: true 
 ---

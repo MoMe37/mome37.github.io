@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Motivation !  
-image: assets/images/pic01.jpg
+image: assets/images/icons/rocky.webp
 nav-menu: true
 ---
 

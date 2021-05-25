@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bienvenue
-image: assets/images/pic01.jpg
+image: assets/images/icons/fellas.jpg
 nav-menu: true
 ---
 

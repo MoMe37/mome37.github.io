@@ -1,7 +1,7 @@
 ---
 layout: page
 title: On respire avec les projets 
-image: assets/images/pic01.jpg
+image: assets/images/icons/vision.jpg
 nav-menu: true
 usemathjax: true 
 ---

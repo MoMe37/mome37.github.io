@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Would you be my NN ? 
-image: assets/images/pic01.jpg
+image: assets/images/icons/archi.webp
 nav-menu: true
 usemathjax: true 
 ---
