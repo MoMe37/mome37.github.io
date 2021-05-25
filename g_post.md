@@ -16,7 +16,7 @@ Maintenant que les objectifs sont à grossièrement définis, il est temps de se
 PyTorch est généralement considéré comme plus compréhensible et aisé à manipuler, favorisé dans la recherche, tandis que TensorFlow/Keras ont de qualités particulières concernant le déploiement industriel des modèles. En pratique, les différences tendent à s'estomper et comprendre le paradigme sur un framework est généralement un accélérateur de compréhension pour l'autre. 
 
 Par conséquent, les tutos (fortement) proposé (peut-être réalisé sur Colab, pour éviter d'installer quoi que ce soit):
-* [Représentation numérique des informations](a_post.md): Comprendre ce qu'est un vecteur, une matrice et un tenseur
+* [Représentation numérique des informations](h_post.md): Comprendre ce qu'est un vecteur, une matrice et un tenseur
 * [Les basiques](https://pytorch.org/tutorials/beginner/basics/intro.html) avec PyTorch
 * [CNN](Lien_vers_page_interne): Comprendre les réseaux de convolution
-
+* [Audio processing](Lien_vers_page_interne): Traitement de l'audio pour deep learning 

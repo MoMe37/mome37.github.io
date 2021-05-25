@@ -10,17 +10,17 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Sedaa amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Orci aaa maecenas</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="a_post.md" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +69,27 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+
+
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/faq/h2g2.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>La FAQ technique</h3>
+				</header>
+				<p>Centre des connaissances, oracle des problèmes pratiques, dépositaire des réponses aux interrogations récurrentes. 42, baby.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Trouver les réponses à tes questions</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
+
 
 <!-- Three -->
 <section id="three">
@@ -79,7 +99,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Get Started again</a></li>
 		</ul>
 	</div>
 </section>
