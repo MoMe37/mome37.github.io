@@ -82,7 +82,7 @@ nav-menu: true
 				</header>
 				<p>Centre des connaissances, oracle des problèmes pratiques, dépositaire des réponses aux interrogations récurrentes. 42, baby.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Trouver les réponses à tes questions</a></li>
+					<li><a href="_posts/2021-5-25-faqs.md" class="button">Trouver les réponses à tes questions</a></li>
 				</ul>
 			</div>
 		</div>
