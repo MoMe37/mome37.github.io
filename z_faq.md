@@ -15,6 +15,8 @@ Ce qu'on peut interpréter librement par: Vous avez certainement bénéficié de
 
 
 La FAQ est composée de plusieurs blocs thématiques, parce qu'on sait bien que les problèmes peuvent venir de tous les côtés. Ci-dessous, un sommaire avec les liens cliquables pour vite trouver sa réponse et retourner pondre de la productivité. 
+
+**Petit bonus**: La checklist incontournable de A. Karpathy au sujet de la performance des réseaux de neurones: http://karpathy.github.io/2019/04/25/recipe/ 
  
 ### [Général IA / Deep Learning](#ia) 
 

@@ -161,6 +161,41 @@ nav-menu: true
 		</div>
 	</section>
 
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/faq/h2g2.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Les articles pour AlphSistant</h3>
+				</header>
+				<p>Résumé d'articles scientifiques sur des problématiques pertinentes pour AlphSistant.</p>
+				<ul class="actions">
+					<li><a href="z_articles_al.html" class="button">Become an Alphicionado</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/faq/h2g2.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Les articles pour AInimals</h3>
+				</header>
+				<p>Résumé d'articles scientifiques sur des problématiques pertinentes pour AInimals.</p>
+				<ul class="actions">
+					<li><a href="z_articles_ai.html" class="button">Become an AI beast</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 
 
 
